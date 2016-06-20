@@ -1,0 +1,6 @@
+# public domain do whatever you want with this
+title =
+prompt = 
+x_wins =
+o_wins = 
+tied =  

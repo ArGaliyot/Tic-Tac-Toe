@@ -1,0 +1,6 @@
+# public domain do whatever you want with this
+title = Tic-Tac-Toe!
+prompt = Click anywhere to begin...
+x_wins = X wins!
+o_wins = O wins!
+tied = It's a tie!
